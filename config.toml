@@ -1,0 +1,25 @@
+languageCode = "en-us"
+defaultContentLanguage = "en" # "en" or "fa"
+enableRobotsTXT = true
+enableEmoji = true
+
+theme = "simple-cv"
+disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
+
+baseURL = "https://kelvin-olaiya.github.io/resume/"
+title = "Kelvin Olaiya | CV"
+#googleAnalytics = ""
+
+[params]
+enableMetaTags = true
+colorLight = "#fff"
+colorDark = "#666"
+colorPageBackground = "#ddd"
+colorPrimary = "#1f74cf"
+colorIconPrimary = "#ccc"
+colorIconSecondary = "#1f74cf"
+colorIconBackground = "#dbdbdb"
+colorLeftColumnBackground = "#333"
+colorRightColumnHeadingText = "#666"
+colorRightColumnBodyText = "#666"
+pages = 1

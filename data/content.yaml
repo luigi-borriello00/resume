@@ -1,0 +1,92 @@
+Dir: ltr # Left to Right Direction
+
+BasicInfo:
+  FirstName: Kelvin Oluwada Milare Obuneme
+  LastName: Olaiya
+  # Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-envelope
+      Info: kelvin.olaiya15@gmail.com
+      Link: false
+    - Icon: fas fa-map-marker-alt
+      Info: Castelbellino, Italy
+      Link: false 
+    - Icon: fab fa-linkedin-in
+      Info: linkedin.com/in/kelvin-olaiya
+      Link: true
+    - Icon: fab fa-github
+      Info: github.com/kelvin-olaiya
+      Link: true
+    - Icon: fas fa-globe
+      Info: kelvin-olaiya.github.io
+      Link: true
+
+kitelabs_positions: &kitelabs
+  Title: Developer
+  Date: 2020 - Current
+  Details:
+    - Development of a HR web application
+  Badges: ['JavaScript', 'HTML', 'CSS', 'PHP']
+
+Experience:
+  - Employer: University of Bologna.
+    Positions:
+      - Title: Teaching tutor "Web Tecnologies"
+        Date: Sep 2022 - Sep 2023
+        Badges: ['JavaScript', 'HTML', 'CSS', 'PHP']     
+  - Employer: Kite Labs S.r.l.
+    Positions:
+      - <<: *kitelabs
+        Date: Aug 2022
+        Details:
+          - Development of a HR web application
+          - Development of an hybrid mobile app
+        Badges: ['JavaScript', 'HTML', 'CSS', 'PHP', 'Cordova']
+      - <<: *kitelabs
+        Date: Sep 2020 - Dec 2020
+        Details:
+          - Development of a HR web application
+          - Development of an hybrid mobile app
+        Badges: ['JavaScript', 'HTML', 'CSS', 'PHP', 'Cordova']
+      - <<: *kitelabs
+        Date: Jul 2019 - Aug 2019
+      - <<: *kitelabs
+        Date: May 2018 - Aug 2018
+      - <<: *kitelabs
+        Date: May 2017 - Aug 2017
+           
+Education:
+  - Degree: M.Sc.
+    FieldOfStudy: Computer Science and Engineering
+    NameofSchool: University of Bologna
+    Location: Cesena, Italy
+    Date: Sep 2022 - 2024
+
+  - Degree: B.Sc.
+    FieldOfStudy: Computer Science and Engineering
+    NameofSchool: University of Bologna
+    Location: Cesena, Italy
+    Date: Sep 2019 - July 2022
+    RelevantCourses:
+      - Object Oriented Programming
+      - Operative Systems
+      - Computer Graphics
+      - Computer Vision
+      - Systems Integration and Virtualization
+
+Profile: I'm fascionated by the beauty of Math & Physics. My curiosity has no horizon and it's attracted by ingegnous technologies. I'm currently exploring DevOps methotologies. The aim is to become a software architect.
+
+Personal:
+    # Gender: Male
+    # BirthDate: 1990-10-05
+    # Status: Free to Work
+    # MaritalStatus: Single
+
+
+
+Skills:
+ - Git
+ - JavaScript
+ - HTML | CSS
+ - Java | Kotlin
+ - C/C++
