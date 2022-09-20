@@ -61,6 +61,9 @@ Education:
     NameofSchool: University of Bologna
     Location: Cesena, Italy
     Date: Sep 2022 - 2024
+    RelevantCourses:
+      - Distribuited Systems
+      - Languages, Compilers and Computational Models
 
   - Degree: B.Sc.
     FieldOfStudy: Computer Science and Engineering
