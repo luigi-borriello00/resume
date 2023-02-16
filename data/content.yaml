@@ -31,9 +31,14 @@ kitelabs_positions: &kitelabs
 Experience:
   - Employer: University of Bologna.
     Positions:
+      - Title: Teaching tutor "Foundamentals of web systems"
+        Date: Feb 2023 - Feb 2024
+        Badges: ['JavaScript', 'HTML', 'CSS', 'MEAN']
+    Positions:
       - Title: Teaching tutor "Web Tecnologies"
         Date: Sep 2022 - Sep 2023
-        Badges: ['JavaScript', 'HTML', 'CSS', 'PHP']     
+        Badges: ['JavaScript', 'HTML', 'CSS', 'PHP']
+         
   - Employer: Kite Labs S.r.l.
     Positions:
       - <<: *kitelabs
