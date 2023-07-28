@@ -1,66 +1,34 @@
 Dir: ltr # Left to Right Direction
 
 BasicInfo:
-  FirstName: Kelvin Oluwada Milare Obuneme
-  LastName: Olaiya
+  FirstName: Luigi
+  LastName: Borriello
   # Photo: img/avatar.jpg
   Contacts:
     - Icon: fas fa-envelope
-      Info: kelvin.olaiya15@gmail.com
+      Info: borriello.luigi00@gmail.com
       Link: false
     - Icon: fas fa-map-marker-alt
-      Info: Castelbellino, Italy
+      Info: Senigallia, Italy
       Link: false 
     - Icon: fab fa-linkedin-in
-      Info: linkedin.com/in/kelvin-olaiya
+      Info: linkedin.com/in/luigi-borriello
       Link: true
     - Icon: fab fa-github
-      Info: github.com/kelvin-olaiya
+      Info: github.com/luigi-borriello00
       Link: true
-    - Icon: fas fa-globe
-      Info: kelvin-olaiya.github.io
-      Link: true
-    - Icon: fas fa-briefcase
-      Info: www.unibo.it/sitoweb/kelvin.olaiya/en
-      Link: true
+    
 
-kitelabs_positions: &kitelabs
-  Title: Developer
-  Date: 2020 - Current
-  Details:
-    - Development of a HR web application
-  Badges: ['JavaScript', 'HTML', 'CSS', 'PHP']
+
 
 Experience:
-  - Employer: University of Bologna.
-    Positions:
-      - Title: Teaching tutor "Foundamentals of web systems"
-        Date: Feb 2023 - Feb 2024
-        Badges: ['JavaScript', 'HTML', 'CSS', 'MEAN']
-      - Title: Teaching tutor "Web Tecnologies"
-        Date: Sep 2022 - Sep 2023
-        Badges: ['JavaScript', 'HTML', 'CSS', 'PHP']
          
-  - Employer: Kite Labs S.r.l.
+  - Employer: Iride Progetti
     Positions:
-      - <<: *kitelabs
-        Date: Aug 2022
+        Date: Mar 2018 - Apr 2018 & Oct 2018 - Oct 2018
         Details:
-          - Development of a HR web application
-          - Development of an hybrid mobile app
-        Badges: ['JavaScript', 'HTML', 'CSS', 'PHP', 'Cordova']
-      - <<: *kitelabs
-        Date: Sep 2020 - Dec 2020
-        Details:
-          - Development of a HR web application
-          - Development of an hybrid mobile app
-        Badges: ['JavaScript', 'HTML', 'CSS', 'PHP', 'Cordova']
-      - <<: *kitelabs
-        Date: Jul 2019 - Aug 2019
-      - <<: *kitelabs
-        Date: May 2018 - Aug 2018
-      - <<: *kitelabs
-        Date: May 2017 - Aug 2017
+          - Internship, worked on a CRM software feature
+        Badges: ['C#']
            
 Education:
   - Degree: M.Sc.
@@ -76,7 +44,7 @@ Education:
     FieldOfStudy: Computer Science and Engineering
     NameofSchool: University of Bologna
     Location: Cesena, Italy
-    Date: Sep 2019 - July 2022
+    Date: Sep 2019 - October 2022
     RelevantCourses:
       - Object Oriented Programming
       - Operating Systems
@@ -84,11 +52,11 @@ Education:
       - Computer Vision
       - Systems Integration and Virtualization
 
-Profile: I'm fascionated by the beauty of Math & Physics. My curiosity has no horizon and it's attracted by ingenious technologies. I'm currently exploring DevOps methotologies. The aim is to become a software architect.
+Profile: I'm in love with IT since I was a child, now I'm focusing on CodeQuality practice and Software Architectures.
 
 Personal:
     # Gender: Male
-    # BirthDate: 1990-10-05
+    # BirthDate: 2000-15-05
     # Status: Free to Work
     # MaritalStatus: Single
 
